@@ -7,11 +7,8 @@ permalink: /
 ## 北京大学计算机申请指南
 
 > 你是否想要出国但是树洞上搜索 #cs申请 tag发现经验分享寥寥？
-
 > 你是否还在申请的规划上还犹豫不定被ddl追着跑？
-
 > 你是否还对如何选校犹犹豫豫，不知道如何定位彩票 冲刺 主申 保底？
-
 > **不需要找任何中介，一本书教会你如何DIY申请**
 
 
@@ -32,4 +29,4 @@ p.s. 转载的文章会标明原出处，欢迎同学们直接跳转评论区获
 3. 修改并commit到自己repo再提起PR
 4. 通过review后合并到master branch
 
-最后感谢友校 [<上海交通大学生存手册>](https://survivesjtu.gitbook.io/survivesjtumanual) 对于本指南形式上的启发
+最后感谢友校 [上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual) 对于本指南形式上的启发
