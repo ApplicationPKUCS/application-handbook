@@ -20,13 +20,13 @@ permalink: /
 
 p.s. 转载的文章会标明原出处，欢迎同学们直接跳转评论区获得更多问答信息，因为投稿者的要求部分文章匿名发布
 
-## 提issue
+### 提issue
 1. 对任何内容准确性和真实性有任何质疑
 2. 对本指南的文章的组织形式有任何建议
 
 我们都会尽力double check并且对于属实的信息进行修订，或者对于本指南进行refactor迭代
 
-## 如何PR
+### 如何PR
 1. 在gitbook.com网站上利用github账号登录
 2. fork ApplicationPKUCS/application-handbook 到个人账户
 3. 修改并commit到自己repo再提起PR
