@@ -17,7 +17,7 @@ rss:              RSS
 remote_theme: sighingnow/jekyll-gitbook
 
 toc:
-  enabled: true
+  enabled: false
   h_min: 1
   h_max: 3
 
@@ -31,7 +31,7 @@ kramdown:
   input:                  GFM
   math_engine:            mathjax
   smart_quotes:           lsquo,rsquo,ldquo,rdquo
-  toc_levels:             1..8
+  toc_levels:             1..6
   syntax_highlighter:     rouge
   syntax_highlighter_opts:
     guess_lang:           true
