@@ -5,7 +5,7 @@ category: ms
 layout: post
 ---
 
-*Alice 树洞 #3453283*
+*Alice 树洞 #3453283 (10772)*
 =================
 
 ### 一、基本背景
@@ -183,7 +183,7 @@ layout: post
 当你的学校不提供.edu.cn的邮箱时，也不要用qq或者163等邮箱来当做你在各种地方的联系方式。一方面这样会显得非常不正式，另一方面邮件有可能被拦截。一般的做法是注册一个Gmail邮箱，缺点就是没有梯子的时候就不能随时提醒。当然你也可以在Gmail里面再设置一个自动转发，转发到你自己的qq邮箱，这样就可以解决上面的问题了。
 
 
-*Bob from 树洞 #3693712 & GitHub*
+*Bob from 树洞 #3693712 & GitHub (3127+)*
 =================
 
 更新后全文：[https://github.com/ZhenbangYou/University-Application--Computer-Science-Graduates-](https://github.com/ZhenbangYou/University-Application--Computer-Science-Graduates-)
