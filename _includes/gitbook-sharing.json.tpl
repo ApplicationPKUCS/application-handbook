@@ -1,28 +1,21 @@
             "sharing": {
-                "facebook": true,
+                "facebook": false,
 
                 "google": false,
 
                 "github": true,
-              {% if site.github_username %}
-                "github_link": "https://github.com/{{ site.github_username }}",
-              {% else %}
-                "github_link": "https://github.com",
-              {% endif %}
+                "github_link": "https://github.com/ApplicationPKUCS/application-handbook",
 
                 "telegram": false,
                 "telegram_link": "https://t.me",
 
                 "instapaper": false,
 
-                "twitter": true,
-              {% if site.twitter_username %}
-                "twitter_link": "https://twitter.com/{{ site.twitter_username }}",
-              {% endif %}
+                "twitter": false,
 
                 "vk": false,
 
                 "weibo": false,
 
-                "all": ["facebook", "google", "twitter", "weibo", "instapaper", "github", "telegram"]
+                "all": ["google", "weibo", "github"]
             },
