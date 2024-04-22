@@ -157,7 +157,7 @@ cs的master项目可以参考opencs（https://opencs.app/grade/），里面分�
 1. cmu ini疑似卡托福口语23
 2. 哥大mscs疑似今年没录北大的
 
-*Grace from 知乎*
+*Isabella from 知乎*
 =================
 
 原文：[https://zhuanlan.zhihu.com/p/693710551](https://zhuanlan.zhihu.com/p/693710551)
