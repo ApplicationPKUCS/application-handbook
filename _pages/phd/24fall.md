@@ -10,14 +10,7 @@ layout: post
 
 ### 一、个人情况简介
 
-基本信息：CS 方向，GPA 3.8, 专业排名 10%, T105(S22), G329
-
-申请方向：EconCS, 20 个项目左右 (CS/OR PhD)
-
-科研经历：一段海外暑期科研（一作在投），一段校内主要科研（一作在投），三段校内次要科研（两篇非一作 accept，一篇共一在投）
-
-申请结果：Caltech CMS PhD, UW CS PhD, Columbia OR PhD, UChicago CS
-PhD, UMich IS PhD, Northwestern CS PhD...
+去向：Havard CS PhD
 
 ### 二、申请前准备
 
