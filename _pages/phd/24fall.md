@@ -10,7 +10,7 @@ layout: post
 
 ### 一、个人情况简介
 
-去向：Havard CS PhD
+去向：Harvard CS PhD
 
 ### 二、申请前准备
 
