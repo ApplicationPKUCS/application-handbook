@@ -17,5 +17,5 @@
 
                 "weibo": false,
 
-                "all": ["google", "weibo", "github"]
+                "all": []
             },
