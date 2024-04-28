@@ -4,7 +4,7 @@ title: PKU CSer Application Handbook
 permalink: /
 ---
 
-# 北京大学计算机留学申请指南（飞跃手册）
+# 北京大学计算机留学申请指南（PKUCS飞跃手册）
 
 > 你是否想要出国但是树洞上搜索 #cs申请 tag发现经验分享寥寥？  
 > 你是否还在申请的规划上还犹豫不定被ddl追着跑？  
