@@ -5,6 +5,8 @@ category: ms
 layout: post
 ---
 
+![24fallms](../../assets/24fallms.png)
+
 *Alice (301)*
 =================
 
@@ -430,7 +432,7 @@ BGA——申请connection。Berkeley交换也是一个能够建立起海外conne
 
 实习——找intern/fte。实习的作用主要体现在读ms之后第一年暑假找intern和后续找fte上。对于国内的实习经历，普遍认为外企大厂>国内大厂>外企中厂>国内中厂，一定有帮助但是很难说中国的实习经历对于美国的找工有多大程度的帮助，因为不少国内微软实习的同学这两年市场不好的情况下在美国投Microsoft SDE没有收到任何回复。尽管如此相比于大厂统招，在少数大厂/中小厂组招时有过相关匹配的实习项目经验仍然是比较加分的，当然更多其实靠的是让自己简历被看到的运气。
 
-![24fallms](../../assets/24fallms.png)
+![24fallms_csapp](../../assets/24fallms_csapp.png)
 
 ### 五、选校
 

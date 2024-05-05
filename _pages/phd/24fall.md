@@ -5,6 +5,8 @@ category: phd
 layout: post
 ---
 
+![24fallphd](../../assets/24fallphd.png)
+
 *Alice (1456)*
 =================
 
