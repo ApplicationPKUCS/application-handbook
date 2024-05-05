@@ -5,8 +5,6 @@ category: ms
 layout: post
 ---
 
-![24fallms](../../../assets/24fallms.png)
-
 *Alice (301)*
 =================
 
